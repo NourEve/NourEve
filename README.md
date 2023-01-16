@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Black and White Modern Technology LinkedIn Banner](https://user-images.githubusercontent.com/117478874/212702905-636993c8-705d-41cd-83b8-687e340412c1.png)
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
