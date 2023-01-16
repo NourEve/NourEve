@@ -6,5 +6,5 @@
   </p>
 
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=NourEve&theme=modern-lilac2&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NourEve&theme=modern-lilac2&date_format=j%20M%5B%20Y%5D&mode=weekly"/></a>
   </p>
