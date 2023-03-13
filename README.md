@@ -51,6 +51,16 @@
 
 <div align="left">
 <ul>
+  
+<li>
+<a href="https://github.com/NourEve/TodoApp-React" target="_blank">TodoApp-Svelte</a>
+<p> 🛠 en construction </p>
+</li>
+  
+<li>
+<a href="https://github.com/NourEve/TodoApp-React" target="_blank">TodoApp-React</a>
+</li>
+  
 <li>
 <a href="https://github.com/NourEve/Cogip_repo" target="_blank">Cogip</a>
 <p>En collaboration avec <a href="https://github.com/LauraWlm" target="_blank">@LauraWlm </a>, <a href="https://github.com/nathvda" target="_blank">@nathvda </a> et <a href="https://github.com/CV136" target="_blank">@CV136 </a></p>
