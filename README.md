@@ -47,12 +47,19 @@
 </div>
 
 <h1 align="center">Mes projets</h1>
-**Ci-dessous, un petit aperçu de mes projets (publics) :**
+<h3 align="left">Ci-dessous, un petit aperçu de mes projets (publics) :</h3>
 
 <div align="left">
+<a href="https://github.com/NourEve/The-Collection" target="_blank">
+    The Collection ( 🛠 version desktop et déploiement en cours de construction )
+</a>
+<a href="https://github.com/NourEve/sunnyside-agency" target="_blank">
+    SunnySide-Agency
+</a>
 <a href="https://github.com/NourEve/profile-card" target="_blank">
     Profile-Card
-  </a>
+</a>
+
   </div>
 
 
