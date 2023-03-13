@@ -54,6 +54,7 @@
 <li>
 <a href="https://github.com/NourEve/Cogip_repo" target="_blank">Cogip</a>
 <p>En collaboration avec <a href="https://github.com/LauraWlm" target="_blank">@LauraWlm </a>, <a href="https://github.com/nathvda" target="_blank">@nathvda </a> et <a href="https://github.com/CV136" target="_blank">@CV136 </a></p>
+  <p> 🛠 déploiement en cours </p>
 </li>
   
 <li>
