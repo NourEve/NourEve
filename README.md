@@ -52,6 +52,11 @@
 <div align="left">
 <ul>
 <li>
+<a href="https://github.com/NourEve/Cogip_repo" target="_blank">Cogip</a>
+<p>En collaboration avec <a href="https://github.com/LauraWlm" target="_blank">@LauraWlm </a>, <a href="https://github.com/nathvda" target="_blank">@nathvda </a> et <a href="https://github.com/CV136" target="_blank">@CV136 </a></p>
+</li>
+  
+<li>
 <a href="https://github.com/NourEve/az_store" target="_blank">AZ_store</a>
 <p>En collaboration avec <a href="https://github.com/vdourson2" target="_blank">@Gvdourson2 </a>, <a href="https://github.com/A-Mariaule" target="_blank">@A_Mauriale </a> et <a href="https://github.com/manesjonathan" target="_blank">@manesjonathan </a></p>
 </li>
