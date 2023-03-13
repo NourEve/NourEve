@@ -47,6 +47,12 @@
 </div>
 
 <h1 align="center">Mes projets</h1>
-<p>Ci-dessous, un petit aperçu de mes projets (publics) </p>
-[Profile-Card](https://github.com/NourEve/profile-card)
+**Ci-dessous, un petit aperçu de mes projets (publics) :**
+
+<div align="left">
+<a href="https://github.com/NourEve/profile-card" target="_blank">
+    Profile-Card
+  </a>
+  </div>
+
 
