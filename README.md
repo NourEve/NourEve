@@ -46,3 +46,7 @@
   </a>
 </div>
 
+<h1 align="center">Mes projets</h1>
+<p>Ci-dessous, un petit aperçu de mes projets (publics) </p>
+[Profile-Card](https://github.com/NourEve/profile-card)
+
