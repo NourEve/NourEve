@@ -53,6 +53,12 @@
 <ul>
   
 <li>
+<a href="https://github.com/NourEve/movieBrowser" target="_blank">MovieBrowser</a>
+<p> Déploiement netlify : [ici](https://chipper-moxie-06d14d.netlify.app/)  </p>
+<p> 🛠 Version desktop en construction </p>
+</li>
+  
+<li>
 <a href="https://github.com/NourEve/TodoApp-React" target="_blank">TodoApp-Svelte</a>
 <p> 🛠 en construction </p>
 </li>
