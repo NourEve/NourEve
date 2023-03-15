@@ -54,7 +54,7 @@
   
 <li>
 <a href="https://github.com/NourEve/movieBrowser" target="_blank">MovieBrowser</a>
-<p> Déploiement netlify : [ici](https://chipper-moxie-06d14d.netlify.app/)  </p>
+<p> Déploiement netlify : <a href="https://chipper-moxie-06d14d.netlify.app/" target="_blank">ici</a>  </p>
 <p> 🛠 Version desktop en construction </p>
 </li>
   
